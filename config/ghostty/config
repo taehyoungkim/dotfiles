@@ -1,0 +1,16 @@
+#theme = GruvboxDarkHard
+#theme = seoulbones_light
+shell-integration-features = no-cursor
+cursor-style = block
+mouse-hide-while-typing = true
+macos-titlebar-style = hidden
+window-save-state = always
+font-size = 14
+font-family = Menlo
+window-padding-balance = true
+clipboard-read = allow
+clipboard-write = allow
+macos-icon=blueprint
+window-padding-color = extend
+background-opacity = 0.9
+background-blur = true
